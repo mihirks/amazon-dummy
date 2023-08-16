@@ -1,0 +1,16 @@
+.checkbox_text{
+    font-size: 14px;
+}
+.checkbox{
+    height: 14px;
+    width: 12px;
+}
+
+.check_div{
+    display: flex;
+    align-items: center;
+    margin-top: 5px ;
+}
+.subtotal{
+    font-size: large;
+}
